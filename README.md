@@ -1,2 +1,2 @@
 # MoodTrack-HR
-Website MoodTrack HR (Kelompok 5)
+Deployment: https://allamanduh.github.io/MoodTrack-HR/
